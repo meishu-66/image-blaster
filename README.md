@@ -5,7 +5,7 @@ Creates 3D environments, SFX, and meshes from a single image using Claude skills
 
 Can take you from an image to a fully meshed 3D environment in < 5 minutes, great for jumpstarting 3D work. Go full blast.
 
-
+> Personal practice fork for learning GitHub.
 ## Quickstart
 
 1. Open a Terminal, enter `git clone https://github.com/neilsonnn/image-blaster`
